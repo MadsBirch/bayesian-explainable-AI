@@ -22,7 +22,7 @@ We found that the calibration error of the Bayesian CNN was dramatically lower.
 
 <figure>
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png"  width="50%">
-    <figcaption> Fig. 1 - Accuracy and calibration error for the MAP and Laplace and Ensemble models. </figcaption>
+    <figcaption> *Fig. 1 - Accuracy and calibration error for the MAP and Laplace and Ensemble models.* </figcaption>
 </figure>
 
 
