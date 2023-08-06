@@ -37,13 +37,3 @@ By visually investigating the predictions of the models using Class Activation M
     <figcaption> <em>Fig. 3 - Aggregated CAMs for the models in the ensemble using different aggregation methods.</em> </figcaption>
 </figure>
 
-<div class="fig-row">
-    <figure class="fig-col fig1-2" id="js--f99-02">
-        <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/heat.png" width="50%">
-        <figcaption> <em>Fig. 2 - Individual CAMs for each of the five models in the ensemble. Each column is a CAM for a single model for a hand and elbow respectively. </em></figcaption> 
-    </figure>
-    <figure class="fig-col fig1-2" id="js--f99-03">
-        <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/ensemble.png"  width="50%">
-        <figcaption> <em>Fig. 3 - Aggregated CAMs for the models in the ensemble using different aggregation methods.</em> </figcaption>
-    </figure>
-</div>
