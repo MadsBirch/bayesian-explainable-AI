@@ -30,7 +30,7 @@ We found that adopting a Bayesian framework, resulted in a dramatic decrease in 
     <figcaption> <em>Fig. 2 - Individual CAMs for each of the five models in the ensemble. Each column is a CAM for a single model for a hand and elbow respectively. </em></figcaption>
 </figure>
 
-<br />By aggregating the CAMs using the average*,*union and intersection* methods, we further investigated uncertainty of the model predictions. By investigating what information is most important for the models when making predictions, we gained valuable insight into the certainty of the learned representations, and thereby about the certainty about the predictions of the models. Hence, by adopting a Bayesian framework we successfully reduced the black-box nature of modern CNNs.<br />
+<br />By aggregating the CAMs using the *average,union and intersection* methods, we further investigated uncertainty of the model predictions. By investigating what information is most important for the models when making predictions, we gained valuable insight into the certainty of the learned representations, and thereby about the certainty about the predictions of the models. Hence, by adopting a Bayesian framework we successfully reduced the black-box nature of modern CNNs.<br />
 
 <figure>
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/ensemble.png"  width="50%">
