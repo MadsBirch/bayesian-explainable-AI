@@ -20,3 +20,7 @@ The collaborators were:
 
 ![Figure 1](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png?raw=true) <br />
 *Figure 1*
+
+
+![Figure 2](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/heat.png?raw=true) <br />
+*Figure 2*
