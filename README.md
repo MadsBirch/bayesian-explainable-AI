@@ -26,6 +26,8 @@ We found that the calibration error of the Bayesian CNN was dramatically lower.
 </figure>
 
 
+### Class Activation Maps
+
 <figure>
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/heat.png"  width="50%">
     <figcaption> <em>Fig. 2 - Individual CAMs for each of the five models in the ensemble. Each column is a CAM for a single model for a hand and elbow respectively. </em></figcaption>
@@ -34,5 +36,8 @@ We found that the calibration error of the Bayesian CNN was dramatically lower.
 
 <figure>
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/ensemble.png"  width="50%">
-    <figcaption> Fig. 3 - Aggregated CAMs for the models in the ensemble.</figcaption>
+    <figcaption> <em>Fig. 3 - Aggregated CAMs for the models in the ensemble using different aggregatio methods.</em> </figcaption>
 </figure>
+
+
+### Class Activation Maps
