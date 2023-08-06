@@ -20,5 +20,7 @@ The collaborators were:
 We found that the calibration error of the Bayesian CNN was dramatically lower.
 
 
-We found that the 
-<img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png"  width="50%">
+<figure>
+    <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png"  width="600" height="300">
+    <figcaption> Accuracy and calibration error</figcaption>
+</figure>
