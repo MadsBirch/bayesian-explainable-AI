@@ -33,5 +33,5 @@ The collaborators were:
 
 ### Numeric Results
 
-![Figure 1]([https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/cam_ensemble_rotation/figures/aggregation_results.png?raw=true]) <br />
+![Figure 1](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/cam_ensemble_rotation/figures/aggregation_results.png?raw=true) <br />
 *Figure 1*
