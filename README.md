@@ -18,7 +18,7 @@ Deep Neural Networks (DNNs) have often been found to be poorly calibrated due to
 ## RESULTS
 
 We found that adopting a Bayesian framework, resulted in a dramatic decrease in calibration error, indicating that the models confidence more closely matches the actual uncertainty of the predictions.
-<br /> 
+<br />
 <figure>
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png"  width="50%">
     <figcaption> <em>Fig. 1 - Accuracy and calibration error for the MAP and Laplace and Ensemble models.</em> </figcaption>
