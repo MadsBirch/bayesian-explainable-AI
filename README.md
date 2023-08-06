@@ -18,9 +18,5 @@ The collaborators were:
 
 ### Numeric Results
 
-![Figure 1](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png?raw=true) <br />
-*Figure 1*
+<img src="[https://github.com/favicon.ico](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png)" width="48">
 
-
-![Figure 2](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/heat.png?raw=true) <br />
-*Figure 2*
