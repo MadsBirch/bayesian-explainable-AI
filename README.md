@@ -23,7 +23,7 @@ We found that adopting a Bayesian framework, resulted in a dramatic decrease in 
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/numeric_results.png"  width="50%">
     <figcaption> <em>Fig. 1 - Accuracy and calibration error for the MAP and Laplace and Ensemble models.</em> </figcaption>
 </figure>
-</b>
+<br />
 
 By visually investigating the predictions of the models using Class Activation Maps (CAMs), we discovered that the models had learned optimal but different solutions. By looking at the diverse set of learned representation, valuable information about the certainty of predictions was gained.
 <figure>
