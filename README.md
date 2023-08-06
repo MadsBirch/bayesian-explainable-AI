@@ -28,7 +28,7 @@ We found that the calibration error of the Bayesian CNN was dramatically lower.
 
 <figure>
     <img src="https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/figures/heat.png"  width="50%">
-    <figcaption> Fig. 2 - Individual CAMs for each of the five models in the ensemble. _Top_: </figcaption>
+    <figcaption> <em>Fig. 2 - Individual CAMs for each of the five models in the ensemble. Each column is a CAM for a single model for a hand and elbow respectively. </em></figcaption>
 </figure>
 
 
