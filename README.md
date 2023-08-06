@@ -27,3 +27,11 @@ The collaborators were:
 - Alessandro Contini
 - Anders David Lægdsgaard Lassen
 - Mads Birch Sørensen
+
+
+## Results
+
+### Numeric Results
+
+![Figure 1]([https://github.com/MadsBirch/imagedenoising/blob/main/figures/best_model5.png?raw=true](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/main/cam_ensemble_rotation/figures/aggregation_results.png)) <br />
+*Figure 1*
